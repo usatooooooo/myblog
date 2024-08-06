@@ -35,5 +35,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "usatooooooo-myblog-97"
-          entrypoint: "_site"
+          entrypoint: ""
           root: ""
